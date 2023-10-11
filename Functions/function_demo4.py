@@ -23,4 +23,4 @@ def print_animals(*animals):
         print(animal)
 
 
-print_animals("Lion", "Tiger", "Mammal", "wolf")
+# print_animals("Lion", "Tiger", "Mammal", "wolf")
