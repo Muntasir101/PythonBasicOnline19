@@ -1,0 +1,26 @@
+1. Write a python program that calculate the sum of all even numbers from 1 to user
+    defined upper limit.
+example
+    input: user defined upper limit = 10
+    output: 2 + 4 + 6 + 8 + 10 =  30
+
+2. Write a python program that checks if a given string is a palindrome.
+
+example:
+    input: eye
+    output: This is a palindrome
+
+3. Write a python program that finds and print the largest ans smallest element
+    in a list of numbers.
+example: [20, 22, 34, 45, 50]
+output:
+    largest element: 50
+    smallest element: 20
+
+4. Write a python program that removes all duplicates from a list of numbers and
+    creates a new list with only the unique elements.
+exmaple:
+    input: [20, 22, 34, 45, 50 , 20, 22]
+    output: [20, 22, 34, 45, 50]
+
+5. Write a python program that generate random email and password
